@@ -1,0 +1,24 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "badge": "",
+    "nReview": 2,
+    "cities": [
+      "Roma",
+      "Firenze",
+      "Milano",
+      "Torino"
+    ]
+  },
+  {
+    "username": "tommaso",
+    "password": "ciao",
+    "badge": "",
+    "nReview": 0,
+    "cities": [
+      "Firenze",
+      "Milano"
+    ]
+  }
+]

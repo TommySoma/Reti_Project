@@ -1,0 +1,28 @@
+[
+  {
+    "username": "admin",
+    "city": "Aosta",
+    "nameHotel": "Hotel Aosta 1",
+    "rate": 5,
+    "ratings": [
+      3,
+      3,
+      4,
+      3
+    ],
+    "date": "2024-05-27T12:03:37"
+  },
+  {
+    "username": "admin",
+    "city": "Aosta",
+    "nameHotel": "Hotel Aosta 2",
+    "rate": 5,
+    "ratings": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "date": "2024-05-27T12:05:12"
+  }
+]
